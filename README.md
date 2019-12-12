@@ -9,7 +9,7 @@ We will implement attention scoring as well as calculating an attention context 
 One important property of human perception is that one does not tend to process a whole scenein its entirety at once.  Instead humans focus attention selectively on parts of the visual space toacquire information when and where it is needed, and combine information from different fixations over time to build up an internal representation of the scene, guiding future eye movementsand decision making. 
 - Recurrent Models of Visual Attention 2014
 
-- We selectively focus 
+- Attention allows to look at small relevant parts of input as it generates the output. But how does the decoder know which parts to focus on? The  
 
 Attention was initially designed in the context of Neural Machine Translation using Seq2Seq Models.
 
